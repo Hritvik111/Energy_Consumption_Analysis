@@ -23,7 +23,7 @@ To get started with the Boston Utilities project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/boston-utilities.git
+    git clone https://github.com/your-username/Energy_Consumption_Analysis.git
     ```
 
 2. Download the dataset from [City of Boston Utility Data](https://data.boston.gov/dataset/city-of-boston-utility-data) and place it in the project directory.
