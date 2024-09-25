@@ -32,3 +32,6 @@ To get started with the Boston Utilities project, follow these steps:
 
 4. Make sure to replace placeholders like `your-username` with your actual GitHub username and update any specific details based on your project.
 
+![Energy consumption](https://github.com/user-attachments/assets/d47e2f7a-08b3-4bee-93db-38075e6c8254)
+
+
